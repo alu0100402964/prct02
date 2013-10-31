@@ -1,0 +1,8 @@
+José Iván Santos González
+
+8. Github es un sistema de control de versiones en la nube que utiliza el sistema de control de versiones git para permitirnos trabajar de manera colaborativa con otros usuarios.
+
+10. Una clave pública es un tipo de clave que se utiliza en los cifrados asimétricos y puede ser conocida por cualquier usuario y sirve para que dichos usuarios cifren los mensajes que nos envían de manera que sólo podrán ser descifrados con nuestra clave privada, la cual solo conocemos nosotros
+
+14. Un repositorio remoto es la copia de nuestro repositorio local en un servidor remoto, y es la forma en la que se organizan nuestros distintos proyectos en Github.
+
